@@ -1,7 +1,8 @@
 ---
-layout:home
+layout: home
+title: My name is Mark
 ---
-# My name is Mark
+# My name is Mark!
 ## and you may have some of my mail
 
 In February 2021, we have distributed 100 envelopes addressed to people all around the world. Passed between people, these envelopes will 
