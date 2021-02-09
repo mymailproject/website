@@ -1,3 +1,6 @@
+---
+layout:home
+---
 # My name is Mark
 ## and you may have some of my mail
 
