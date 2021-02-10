@@ -7,11 +7,14 @@ title: My name is Mark
 In February 2021, our team distributed 100 envelopes addressed to people all around the world. They have no postage. In a world that is
 at once more and less connected than ever before, we hope to show the power of social bonds and spur unexpected coincidences.
 
-**We have no idea how long this will take.** It could take weeks. It could take years. Serendipity is beautiful and unpredictable.
+As the envelopes travel from place to place, they will accumulate notes and drawings which we will collate and share. **We have no 
+idea how long these journeys will take.** They could take weeks - or years. Serendipity is beautiful and unpredictable.
+
+This project was inspired by the work of [mail artist Ray Johnson](https://en.wikipedia.org/wiki/Ray_Johnson).
 
 ## Track the progress
 
-Here's where we've been so far.
+Here's where we've been so far. When the envelopes
 
 ![](map.png)
 
