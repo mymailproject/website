@@ -14,7 +14,7 @@ thing.
 
 Here's a map of where it's been and where it is going.
 
-[include graphic]
+![](map.png)
 
 ## If you have an envelope
 
