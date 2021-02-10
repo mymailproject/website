@@ -2,14 +2,19 @@
 layout: home
 title: My name is Mark
 ---
-# My name is Mark!
-## and you may have some of my mail
+# and you may have some of my mail
 
 In February 2021, we have distributed 100 envelopes addressed to people all around the world. Passed between people, these envelopes will 
 travel across uncharted interpersonal networks and gently alight on their destination. 
 
 *We have no idea how long this will take.* It could take weeks. It could take years. Serendipity is a beautiful and unpredictable
 thing.
+
+## To follow the progress -
+
+Here's a map of where it's been and where it is going.
+
+[include graphic]
 
 ## If you have an envelope
 
@@ -31,9 +36,3 @@ Please don't -
 ## If you'd like an envelope
 
 Get in touch. Use [this form] to contact us.
-
-## To follow the progress -
-
-Here's a map of where it's been and where it is going.
-
-[include graphic]
