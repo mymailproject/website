@@ -1,3 +1,8 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 title:
-description: 
+description:
+plugins: # removing jekyll-paginate to turn off posts
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+    #- jekyll-paginate
