@@ -10,7 +10,7 @@ at once more and less connected than ever before, I hope to investigate the powe
 As the envelopes travel from place to place, they will accumulate notes and drawings which the recipients will collate and share. **I have no 
 idea how long these journeys will take.** They could take weeks - or years. Serendipity is beautiful and unpredictable.
 
-This project was inspired by the work of [mail artist Ray Johnson](https://en.wikipedia.org/wiki/Ray_Johnson).
+This project was inspired by the work of [mail artist Ray Johnson](https://en.wikipedia.org/wiki/Ray_Johnson) and sociologists [Michael Gurevich and Stanley Milgram](https://en.wikipedia.org/wiki/Small-world_experiment).
 
 ## Track the progress
 
