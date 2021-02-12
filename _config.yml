@@ -5,4 +5,7 @@ plugins: # removing jekyll-paginate to turn off posts
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
     #- jekyll-paginate
+whitelist:
+  - jekyll-redirect-from
