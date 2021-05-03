@@ -1,8 +1,8 @@
 ---
 layout: home
-title: My name is Mark
+title: We are the Network Mail Project
 ---
-# and you may have some of my mail
+# and you may have some of our mail
 
 In April 2021, my friends and I began distributing 100 envelopes addressed to people all around the
 world. They had no postage. In a world that is at once more and less connected than ever before, we
